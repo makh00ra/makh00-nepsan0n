@@ -8,7 +8,7 @@ Inspired By
 ParrotSec AnonSurf core module
 
 
-this script is preinstalled on Parrot Security OS (www.parrotsec.org)
+this script is preinstalled on Parrot Security OS
 
 and its aim is to provide a strong system-wide anonymization module for another OS
 
