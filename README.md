@@ -48,32 +48,19 @@ Quote
 
 then download 
 By Typing 
-cd Desktop
+cd src
 git clone https://github.com/makh00ra/makh00ra-nepsan0n
  then a folder name makh00ra-nepsan0n will be downloade on your desktop
 
-┌─────────[root@makh00ra] 
-|-[~/Desktop] 
-└─>[08:58:37]─> git clone https://github.com/makh00ra/makh00ra-nepsan0n
+git clone https://github.com/makh00ra/makh00ra-nepsan0n
  now type:
  
- ┌─────────[root@makh00ra] 
-|-[~/Desktop] 
-└─>[09:03:44]─> cd makh00ra-nepsan0n
-
-┌─────────[root@makh00ra] 
-|-[~/Desktop/makh00ra-nepsan0n] 
-└─>[09:03:51]─> ls
+cd makh00ra-nepsan0n
+ ls
 makh00ra.sh  README.md
 
-┌─────────[root@makh00ra] 
-|-[~/Desktop/makh00ra-nepsan0n] 
-└─>[09:03:55]─> 
-
  ./makh00ra.sh start
-┌─────────[root@makh00ra] 
-|-[~/Desktop/makh00ra-nepsan0n] 
-└─>[09:08:14]─> ./makh00ra.sh start
+
 
 anonymity through TOR service will be activated on your system
  
