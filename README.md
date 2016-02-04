@@ -1,6 +1,38 @@
 # makh00ra-nepsan0n
 Stay anonymous on LINUX or Kali
 
+First we need tor,, its probably already installed but if not:
+
+
+apt-get install tor
+
+
+Then we need to edit the tor config in /etc/default/tor to allow it to be ran as daemon
+
+
+gedit /etc/default/tor
+
+
+you will see: RUN_DAEMON="no"
+
+change it to say "yes"
+
+control it with the commands:
+
+
+service tor start
+
+
+service tor stop
+
+
+service tor restart
+
+
+service tor status
+
+
+then download 
 
 Inspired By
 ============
