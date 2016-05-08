@@ -50,7 +50,7 @@ then download
 By Typing 
 cd src
 git clone https://github.com/makh00ra/makh00ra-nepsan0n
- then a folder name makh00ra-nepsan0n will be downloade on your desktop
+ then a folder name makh00ra-nepsan0n will be downloaded on your desktop
 
 git clone https://github.com/makh00ra/makh00ra-nepsan0n
  now type:
